@@ -7,10 +7,10 @@ export const Navbar = () => {
   return (
     <div classNamer='navbar'>
       <nav>
-        <Link to='./'>
+        <Link to='/'>
           <h1> Cooking with Lukasz</h1>
         </Link>
-        <Link to='./create'>Create Recipe</Link>
+        <Link to='/create'>Create Recipe</Link>
       </nav>
     </div>
   );
