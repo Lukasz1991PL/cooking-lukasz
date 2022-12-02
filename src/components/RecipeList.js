@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import './RecipeList.css';
 export const RecipeList = ({ recipes }) => {
   return (
     <div className='recipe-list'>
