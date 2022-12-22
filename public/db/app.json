@@ -38,31 +38,11 @@
       "cookingTime": "35 minutes"
     },
     {
-      "title": "dsffds",
-      "ingredients": [
-        "fsfds"
-      ],
-      "method": "ergerert",
-      "cookingTime": "45 minutes ",
-      "id": "ftfPV6k"
-    },
-    {
-      "title": "gdssdfg",
-      "ingredients": [
-        "gfdgfda"
-      ],
-      "method": "gdrdgaf",
-      "cookingTime": "8 minutes ",
-      "id": "LM45Pjr"
-    },
-    {
-      "title": "sa",
-      "ingredients": [
-        "as"
-      ],
-      "method": "ssxa",
-      "cookingTime": "7 minutes ",
-      "id": "apu-PTH"
+      "title": "Carrot",
+      "ingredients": [],
+      "method": "cook ",
+      "cookingTime": "15 minutes ",
+      "id": "wvWyybK"
     }
   ]
 }
